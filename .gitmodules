@@ -1,0 +1,3 @@
+[submodule "liva-hugo"]
+	path = liva-hugo
+	url = https://github.com/gethugothemes/liva-hugo.git
